@@ -1,0 +1,22 @@
+{
+  "name": "blog-client",
+  "version": "0.0.1",
+  "description": "Blog client. Made with Angular, consumes API",
+  "bugs": {
+    "url": "https://github.com/hartascuerdas/blog-client/issues",
+    "email": "franco.cedillo@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Franco Cedillo",
+    "email": "franco.cedillo@gmail.com",
+    "url": "http://adagio.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hartascuerdas/blog-client"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
