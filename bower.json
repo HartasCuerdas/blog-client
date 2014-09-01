@@ -1,0 +1,1 @@
+{  "name": "blog-client",  "version": "0.0.1",  "description": "Blog client. Angular app, consumes API",  "dependencies": {},  "devDependencies": {    "angular-route": "~1.2.23",    "angular-resource": "~1.2.23"  }}
